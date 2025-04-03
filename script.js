@@ -13,4 +13,9 @@ console.log(pTag);
 console.log(pTag2);
 console.log(pTag3);
 
+//querySelectorAll
+const h3Tags = document.querySelectorAll("h3");
+
+console.log(h3Tags);
+
 })
